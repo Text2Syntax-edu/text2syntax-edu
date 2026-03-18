@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey, I'm on a journey in tech
 
-<!--
-**Text2Syntax-edu/text2syntax-edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m currently learning and building in public to improve my skills every day.
 
-Here are some ideas to get you started:
+## 💻 Learning in Public
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’m working on:
+- Python & C++
+- Development (Web / Software)
+- Data Analytics
+- Problem Solving & Logic Building
+
+### 📌 What you’ll find here:
+- Projects I build while learning
+- Daily progress & experiments
+- Practice code & concepts
+- Ideas and implementations
+
+### 🌱 My approach:
+I believe in learning by doing, making mistakes, and improving step by step.
+
+### 🤝 Let’s connect:
+I’m always open to feedback, suggestions, and collaboration.  
+If you have ideas or improvements, feel free to share!
+
+---
+✨ Building consistency. Improving every day.
